@@ -74,6 +74,12 @@ Implemented in:
 - Matplotlib / Seaborn
 - Streamlit (for deployment)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Streamlit Deployment**
+-link: https://reviewspredictionnaive-bayes-nkc8tk9iwlepkp9ypubkw4.streamlit.app/
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 👩‍💻 Author
 
 Sowmya
