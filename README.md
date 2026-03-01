@@ -1,8 +1,8 @@
-📝 Review Sentiment Classification using Naive Bayes
+**📝 Review Sentiment Classification using Naive Bayes**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-**📌 Project Overview**
+**📌Project Overview**
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 This project implements an end-to-end Text Classification Pipeline using TF-IDF + Bernoulli Naive Bayes to classify customer reviews as:
 👍 Liked (1)
@@ -11,7 +11,7 @@ This project implements an end-to-end Text Classification Pipeline using TF-IDF 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 📂 Project Structure
-Reviews_prediction_Streamlit/
+- Reviews_prediction_Streamlit/
 - │
 - ├── app.py
 - ├── preprocessing.py
@@ -35,7 +35,7 @@ Checked shape, info, missing values
 - Analyzed review length
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **3.Text Preprocessing**
-Custom preprocessing function (clean_text) includes:
+- Custom preprocessing function (clean_text) includes:
     - Lowercasing
     - Removing special characters
     - Removing stopwords (NLTK)
@@ -54,17 +54,17 @@ Implemented in:
 - 20% Testing
 
 **📊5.Model Evaluation**
-Metrics Used:
+- Metrics Used:
   - Accuracy
   - Precision
   - Recall
   - F1 Score
   - Confusion Matrix
   - Classification Report
-  - 
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 - Python
 - Pandas
 - Numpy
