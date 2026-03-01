@@ -24,10 +24,11 @@ The model is built using Scikit-learn Pipeline and deployed-ready using a saved 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-**🚀 Project Workflow**
+🚀 Project Workflow
+
 **1️. Data Loading**
-Loaded dataset (output.csv)
-Checked shape, info, missing values
+- Loaded dataset (output.csv)
+- Checked shape, info, missing values
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **2️.Data Cleaning**
 - Removed extra spaces from column names
@@ -53,7 +54,7 @@ Implemented in:
 - 80% Training
 - 20% Testing
 
-**📊5.Model Evaluation**
+**5.Model Evaluation**
 - Metrics Used:
   - Accuracy
   - Precision
