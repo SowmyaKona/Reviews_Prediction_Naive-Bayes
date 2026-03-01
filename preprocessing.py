@@ -23,4 +23,6 @@ def clean_text(text):
     words = text.split()
     words = [w for w in words if w not in stop_words]
     words = [lemmatizer.lemmatize(w) for w in words]
+
     return " ".join(words)
+    
